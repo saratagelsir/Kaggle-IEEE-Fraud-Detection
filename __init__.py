@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
-from EnsembleRusBoosting import EnsembleRUSBoosting
+from KaggleIEEEFraudDetection import KaggleIEEEFraudDetection
 from ModelUtils import *
